@@ -1,0 +1,31 @@
+td a {
+    color: rgb(33, 37, 41);
+}
+
+small {
+    font-style: italic;
+}
+
+th {
+    background-color: #f1e6ff;
+    text-align: center;
+    border-right: 1px solid #cccccc;
+
+}
+
+td {
+    text-align: center;
+    border-right: 1px solid #cccccc;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #fafafa;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #eff5f5 !important;
+}
+
+th:nth-child(4), td:nth-child(4) {
+    border-right: none;
+}
