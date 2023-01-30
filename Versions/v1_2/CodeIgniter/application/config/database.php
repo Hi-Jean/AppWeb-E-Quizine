@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'obiwan.univ-brest.fr',
-	'username' => 'zjeanhi00',
-	'password' => '2n2cf2he',
+	'hostname' => 'xxxxxxxx',
+	'username' => 'xxxxxxxx',
+	'password' => 'xxxxxxxx',
 	'database' => 'zal3-zjeanhi00_1',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
